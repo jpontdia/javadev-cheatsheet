@@ -5,10 +5,10 @@ Development tools
 
 | Tool  | Url  | File |
 |-------|------|------|
-| [`Java JDK 15`](#java) | https://jdk.java.net/15/ | openjdk-15_windows-x64_bin.zip 
-| [`Maven 3`](#maven) | http://maven.apache.org/download.cgi | apache-maven-3.6.3-bin.zip
-| SoapUI | https://www.soapui.org/downloads/latest-release | [`SoapUI-5.6.0-windows-bin.zip`](https://s3.amazonaws.com/downloads.eviware/soapuios/5.6.0/SoapUI-5.6.0-windows-bin.zip)
-|  [`Docker`](#java)  | https://hub.docker.com/editions/community/docker-ce-desktop-windows/ |  
+| [Java JDK 15](#java) | https://jdk.java.net/15/ | openjdk-15_windows-x64_bin.zip 
+| [Maven 3](#maven) | http://maven.apache.org/download.cgi | apache-maven-3.6.3-bin.zip
+| SoapUI | https://www.soapui.org/downloads/latest-release | [SoapUI-5.6.0-windows-bin.zip](https://s3.amazonaws.com/downloads.eviware/soapuios/5.6.0/SoapUI-5.6.0-windows-bin.zip)
+|  [Docker](#java)  | https://hub.docker.com/editions/community/docker-ce-desktop-windows/ |  
 
 
 ## <a name="java"></a> Java JDK 15
